@@ -1,3 +1,3 @@
 # File Sentinel
 
-It is a project of recording my learning path.
+This would be themed as the File.
